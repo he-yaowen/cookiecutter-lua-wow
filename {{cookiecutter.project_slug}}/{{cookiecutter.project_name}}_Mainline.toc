@@ -1,0 +1,7 @@
+## Interface: 90205
+## Title: {{ cookiecutter.project_name }}
+## Notes: {{ cookiecutter.project_description }}
+## Author: {{ cookiecutter.author_name }} <{{ cookiecutter.author_email }}>
+## Version: {{ cookiecutter.project_version }}
+
+main.lua

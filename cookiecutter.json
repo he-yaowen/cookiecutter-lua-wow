@@ -15,5 +15,9 @@
     ],
     "license_fullname": "{{ cookiecutter.author_name }}",
     "license_year": "{% now 'utc', '%Y' %}",
-    "lua_version": "5.1.5"
+    "lua_version": "5.1.5",
+    "addon_mainline": ["yes", "no"],
+    "addon_tbc": ["yes", "no"],
+    "addon_wrath": ["yes", "no"],
+    "addon_vanilla": ["yes", "no"]
 }
